@@ -63,3 +63,5 @@ btnReset.click(() => {
 })
 btnCleanup.click(clearDone)
 btnSort.click(sortTasks)
+
+window.stop();
